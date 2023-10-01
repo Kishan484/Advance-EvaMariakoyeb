@@ -50,7 +50,7 @@ async def start(client, message):
             InlineKeyboardButton('ℹ️ 𝙷𝚎𝚕𝚙', callback_data='help'),
             InlineKeyboardButton('😊 𝙰𝚋𝚘𝚞𝚝', callback_data='about')
             ],[
-            InlineKeyboardButton('😎ADMIN😎', url='https://t.me/Kishanyadav484'),
+            InlineKeyboardButton('😎ADMIN😎', url='https://t.me/Kishan484'),
             InlineKeyboardButton('Movie Channel', url='https://t.me/newSouthmovieinhindid')
         ]]
         reply_markup = InlineKeyboardMarkup(buttons)
